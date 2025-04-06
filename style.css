@@ -16,13 +16,13 @@ body {
   line-height: 1.5;
   margin: 0;
   padding: 0;
-  background: #22262b;
-  background: linear-gradient(249deg, #201d2b, #1a322a, #201d2b, #173334);
+  background: #111;
+  /* background: linear-gradient(249deg, #201d2b, #1a322a, #201d2b, #173334); */
   background-size: 200% 200%;
   color: #8b94a3;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 #root {
@@ -62,8 +62,8 @@ h2 {
   color: #fff;
   border-radius: 2rem;
   margin: 12rem 0 0rem;
-  font-weight: 800;
-  text-shadow: 1rem 1rem .25rem rgba(0,0,0,.75);
+  font-weight: 400;
+  /* text-shadow: 1rem 1rem .25rem rgba(0,0,0,.75); */
   /* font-family: 'IBM Plex Serif', serif; */
 }
 
