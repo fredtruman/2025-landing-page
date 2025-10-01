@@ -108,14 +108,14 @@ a:link,
 a:visited,
 a:hover,
 a:active {
-  border-bottom: 0.75rem dotted rgb(0, 100, 237, 0.2);
+  border-bottom: 0.25rem solid rgb(0, 100, 237, 0.4);
   transition: border 160ms ease-in;
   text-decoration: none;
   color: #ffffff;
 }
 
 a:hover {
-  border-bottom: .75rem dotted rgb(0, 100, 237, 1);
+  border-bottom: .5rem solid rgb(0, 100, 237, 1);
 }
 
 .center-img {
